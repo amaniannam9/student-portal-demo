@@ -1,0 +1,9 @@
+Student Name:Amani Annam
+Suc Code:2347390441
+course:BCA-Datascience
+College:Aditya Degree college for Women, Kakinada
+Subjects:
+1.Supervised machine Learning
+2.Unsupervised Machine Learning
+3.Machine Learning
+4.Python
